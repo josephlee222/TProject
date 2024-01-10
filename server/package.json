@@ -32,7 +32,7 @@
     "react": "^18.2.0",
     "sequelize": "^6.32.1",
     "socket.io": "^4.7.2",
-    "stripe": "^12.9.0",
+    "stripe": "^12.18.0",
     "yup": "^1.2.0"
   },
   "devDependencies": {
