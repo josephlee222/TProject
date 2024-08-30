@@ -37,7 +37,7 @@ const connector = new MyInfoConnector(MYINFO_CONNECTOR_CONFIG);
 var sessionIdCache = {};
 
 const corsOptions = {
-  origin: '*',
+  origin: true,
   credentials: true,            //access-control-allow-credentials:true
   optionSuccessStatus: 200
 }
