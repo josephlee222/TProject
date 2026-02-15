@@ -22,7 +22,7 @@
     "@types/react": "^18.2.14",
     "@uiw/react-md-editor": "^3.23.3",
     "@vitejs/plugin-react-swc": "^3.3.0",
-    "axios": "^1.4.0",
+    "axios": "^1.13.5",
     "cors": "^2.8.5",
     "date-fns": "^2.30.0",
     "dayjs": "^1.11.9",
